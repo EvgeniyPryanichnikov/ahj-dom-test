@@ -39,7 +39,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist'  # Путь к собранным файлам (измените если нужно)
+          path: 'dist'  # Путь к собранным файлам (измените если нужно)
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
