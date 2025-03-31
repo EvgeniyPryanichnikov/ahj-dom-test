@@ -1,7 +1,8 @@
 CI :
 [![Build status](https://ci.appveyor.com/api/projects/status/appcm1xa7336b46e?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-dom-test)
 
-deployment:
+deployment: 
+ https://evgeniypryanichnikov.github.io/ahj-dom-test/
 ### Перемещение элемента
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ym1tnda9jkg1ki9b?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-dom-t447b)
